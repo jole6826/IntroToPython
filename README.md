@@ -20,4 +20,4 @@ The notebooks and data used for the course can be found in the folder [Notebooks
 
 ##### Follow along on your own laptop
 
-To follow along on your own laptop, you need to have Python and Jupyter ([Installation]()https://www.tu-ilmenau.de/de/neurob/teaching/python-installation/ "Step-by-Step-Installations")) installed.
+To follow along on your own laptop, you need to have Python and Jupyter ([Installation](https://www.tu-ilmenau.de/de/neurob/teaching/python-installation/ "Step-by-Step-Installations")) installed.
